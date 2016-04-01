@@ -4,7 +4,7 @@
   <head>
     <title>200 days project</title>
    
-    <link type="text/css" rel="stylesheet.css"/>
+    <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
   </head>
   
   <body>
