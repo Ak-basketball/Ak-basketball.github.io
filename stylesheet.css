@@ -22,4 +22,14 @@ ul{
   font-size: 25px;
   font-align: center;
 }
-
+div{
+  border-radius: 5px;
+  border-color: black;
+  border: 2px;
+  text-align: center;
+  margin: auto;
+}
+a{
+  color: white;
+  background-color: gray;
+}
