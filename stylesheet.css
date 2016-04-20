@@ -31,4 +31,8 @@ a{
 table{
   border-radius: 5px;
   border-color: gray;
+  height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
 }
