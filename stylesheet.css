@@ -5,22 +5,7 @@ body {
   background-repeat: no-repeat;
   background-position: top-center;
 }
-h1{
-  color: white;
-  text-align: center;
-  font-size: 45px;
-  font-family: Courier;
-}
-h3{
-  font-family: Arial;
-  text-align: center;
-  font-size: 25px;
-  color: white;
-}
-ul{
-  font-size: 25px;
-  font-align: center;
-}
+
 .button_container {
   position: fixed;
   top: 6%;
