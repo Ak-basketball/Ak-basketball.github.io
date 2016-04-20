@@ -25,6 +25,7 @@ ul{
 div{
   border-radius: 5px;
   border-color: black;
+  width: 50px;
   border: 2px;
   text-align: center;
   margin: auto;
