@@ -24,6 +24,7 @@ ul{
 }
 div{
   border-radius: 5px;
+  height: 200px;
   border-color: black;
   border: 2px;
   text-align: center;
