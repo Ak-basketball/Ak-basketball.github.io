@@ -22,16 +22,6 @@ ul{
   font-size: 25px;
   font-align: center;
 }
-div{
-  border-radius: 20px;
-  border-color: black;
-  height: 50;
-  width: 200px;
-  border: 2px;
-  text-align: center;
-  margin: auto;
-  background-color: gray;
-}
 a{
  background-color: gray;
   color: white;
