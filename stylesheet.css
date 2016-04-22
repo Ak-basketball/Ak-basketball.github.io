@@ -4,11 +4,9 @@ body {
   background-image: url("http://cdn.pcwallart.com/images/cool-nature-desktop-backgrounds-wallpaper-1.jpg");
   background-repeat: no-repeat;
   background-position: top-center;
-  
 }
-
 h1{
-  color: black;
+  color: white;
   text-align: center;
   font-size: 45px;
   font-family: Courier;
@@ -17,36 +15,14 @@ h3{
   font-family: Arial;
   text-align: center;
   font-size: 25px;
-  color: black;
+  color: white;
 }
-a{
- background-color: none;
-  color: black;
-  font-size: 30px;
-  width: 20px;
-  font-family: Verdana;
-  
-}
-table{
-  border-radius: 10px;
-  border-color: gray;
-  height: 45px;
-  width: 600px;
-  margin: auto;
-  text-align: center;
-  background-color: gray;
-  
-  
-}
-
-
 a{
  background-color: none;
   color: blue;
   font-size: 30px;
   width: 20px;
   font-family: Verdana;
-  
 }
 table{
   border-radius: 10px;
@@ -56,17 +32,10 @@ table{
   margin: auto;
   text-align: center;
   background-color: gray;
-  
-  
 }
 h4{
   color: black;
   background-color: auto;
   width: 600px; 
-  
- 
 }
-div{
-  color: white;
-  margin: auto;
-}
+
