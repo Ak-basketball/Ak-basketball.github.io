@@ -26,8 +26,8 @@ ul{
   border-radius: 10px;
 }
 a{
- background-color: gray;
-  color: white;
+ background-color: none;
+  color: red;
   font-size: 30px;
   width: 20px;
   font-family: Verdana;
