@@ -40,5 +40,8 @@ table{
   margin: auto;
   text-align: center;
   background-color: gray;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
