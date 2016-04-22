@@ -47,6 +47,7 @@ table{
 h4{
   color: black;
   background-color: none;
-  width: 200px; 
+  width: 600px; 
+  border-radius: 10px;
  
 }
