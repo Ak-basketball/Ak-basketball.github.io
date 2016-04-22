@@ -24,9 +24,20 @@ ul{
   background-color: auto;
 }
 a{
-  background-color: black;
+ background-color: gray;
   color: white;
   font-size: 30px;
   width: 20px;
+  font-family: Verdana;
+  
+}
+table{
+  border-radius: 10px;
+  border-color: gray;
+  height: 45px;
+  width: 200px;
+  margin: auto;
+  text-align: center;
+  background-color: gray;
 }
 
