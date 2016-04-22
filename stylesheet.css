@@ -43,4 +43,8 @@ table{
   
   
 }
-
+h4{
+  color: gray;
+  background-color: white;
+  border-radius: 10px;
+}
