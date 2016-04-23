@@ -117,10 +117,10 @@ u{
   font-family: "comic Sans MS";
 }
 span{
-  color: red;
+  color: white;
 }
 span:hover{
-  color: blue;
+  color: yellow;
 }
 a, u{
   text-decoration: none;
