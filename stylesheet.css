@@ -45,7 +45,7 @@ h4{
             list-style-type: none;
             margin: 0;
             padding: 0;
-            background-color: gray;
+            background-color: none;
             position: fixed;
             top: 0;
             width: 100%;
@@ -71,7 +71,7 @@ h4{
             text-decoration: none;
           }
             li a:hover{
-              background-color: black;
+              color: red;
             }
             .active{
               background-color: green;
