@@ -53,6 +53,8 @@ ul {
 
 li {
     float: left;
+    font-family: "Comic Sans MS";
+    font-size: 30px;
 }
 
 li a {
