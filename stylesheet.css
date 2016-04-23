@@ -23,7 +23,7 @@ a{
   display: black;
   padding: 8px;
 }
-u a:hover{
+center a:hover{
   color: yellow;
 }
 table{
