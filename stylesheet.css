@@ -135,3 +135,6 @@ font{
 font:hover{
   color: red;
 }
+.blogli{
+  background-color: none;
+}
