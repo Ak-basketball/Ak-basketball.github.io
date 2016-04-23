@@ -16,10 +16,13 @@ h3{
 }
 a{
  background-color: none;
-  color: blue;
+  color: black;
   font-size: 20px;
   width: auto;
   font-family: "Comic Sans MS";
+}
+a:hover{
+  color: yellow;
 }
 table{
   border-radius: 10px;
