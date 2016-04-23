@@ -32,14 +32,17 @@ a:hover{
 }
 //*menu bar code*//
 table{
-  border: 1px solid black;
-  border-collapse: collapse;
   border-color: black;
   height: 45px;
   width: 600px;
-  margin: auto;
-  text-align: center;
-  background-color: none;
+}
+table, th, td {
+ border: 1px solid black;
+ border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+}
 }
 #section{
   float: center;
