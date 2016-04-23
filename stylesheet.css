@@ -125,3 +125,6 @@ span:hover{
 a, u{
   text-decoration: none;
 }
+font:hover{
+  color: red;
+}
