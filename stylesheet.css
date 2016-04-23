@@ -1,10 +1,10 @@
 
 
-body {
-  background-image: url("http://cdn.pcwallart.com/images/cool-nature-desktop-backgrounds-wallpaper-1.jpg");
+//*body {
+  //*background-image: url("http://cdn.pcwallart.com/images/cool-nature-desktop-backgrounds-wallpaper-1.jpg");
   background-repeat: no-repeat;
   background-position: top-center
-}
+}*//
 h1{
   color: white;
   text-align: center;
