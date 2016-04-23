@@ -6,7 +6,7 @@
   background-position: top-center
 }*//
 h1{
-  color: white;
+  color: black;
   text-align: center;
   font-size: 45px;
   font-family: Courier;
@@ -15,7 +15,7 @@ h3{
   font-family: Arial;
   text-align: center;
   font-size: 25px;
-  color: white;
+  color: black;
 }
 a{
  background-color: none;
