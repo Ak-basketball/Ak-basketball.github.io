@@ -74,7 +74,8 @@ li a:hover:not(.active) {
     color: yellow;
 }
 .active{
-  background-color: green;
+  font-size: 30px;
+  color: yellow;
 }
 .content:before {
   content: "";
