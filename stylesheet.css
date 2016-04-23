@@ -75,3 +75,4 @@ li a:hover{
 .active{
   background-color: green;
 }
+.opacity {-webkit-filter: opacity(50%);filter: opacity(50%);}
