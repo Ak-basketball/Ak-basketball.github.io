@@ -54,6 +54,7 @@ h4{
             float: left;
             border-right: 1px solid white;
             font-size: 25px;
+            color: black;
           }
           li:last-child{
             border-right: none;
@@ -71,7 +72,7 @@ h4{
             text-decoration: none;
           }
             li a:hover{
-              color: red;
+              color: yellow;
             }
             .active{
               background-color: green;
