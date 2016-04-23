@@ -31,14 +31,11 @@ a:hover{
   color: yellow;
 }
 //*menu bar code*//
-table{
-  border-color: black;
-  height: 45px;
-  width: 600px;
-}
 table, th, td {
  border: 1px solid black;
  border-collapse: collapse;
+ height: 45px;
+  width: 600px;
 }
 th, td {
     padding: 5px;
