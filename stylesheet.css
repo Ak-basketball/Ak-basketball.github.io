@@ -57,6 +57,7 @@ li {
     color: blue;
     list-style-type: none;
     border-right: 1px solid white;
+    background-color: gray;
 }
 
 li a {
@@ -73,6 +74,7 @@ li a:hover:not(.active) {
 }
 .active{
   color: yellow;
+  background-color: green;
 }
 li:last-child {
     border-right: none;
