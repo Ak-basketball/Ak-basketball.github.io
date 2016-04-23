@@ -58,6 +58,7 @@ li {
     font-family: "Comic Sans MS";
     font-size: 30px;
     color: blue;
+    list-style-type: none;
 }
 
 li a {
