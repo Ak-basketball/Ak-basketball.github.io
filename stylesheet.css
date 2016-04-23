@@ -20,6 +20,8 @@ a{
   font-size: 20px;
   width: auto;
   font-family: "Comic Sans MS";
+  display: block;
+  padding: 8px;
 }
 a:hover{
   color: yellow;
@@ -57,10 +59,6 @@ li{
 }
 li:last-child{
  border-right: none;
-}
-a{
-  display: block;
-  padding: 8px;
 }
 li a{
   display: block;
