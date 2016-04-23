@@ -32,6 +32,8 @@ a:hover{
 }
 //*menu bar code*//
 table{
+  border: 1px solid black;
+  border-collapse: collapse;
   border-radius: 10px;
   border-color: black;
   height: 45px;
@@ -40,7 +42,6 @@ table{
   text-align: center;
   background-color: none;
 }
-
 #section{
   float: center;
 }
