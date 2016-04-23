@@ -22,7 +22,7 @@ h4{
   font-family:"Comic Sans MS";
 }
 //*"a" code*//
-//*a:hover{
+:hover{
   color: yellow;
 }
 menu bar code
@@ -102,65 +102,4 @@ li a:hover:not(.active){
 u{
   color: blue;
   font-family: "comic Sans MS";
-}*//
-ul{
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            position: fixed;
-            top: 0;
-            width: 100%;
-          }
-          li{
-            float: left;
-            border-right: 1px solid white;
-          }
-          li:last-child{
-            border-right: none;
-          }
-          a{
-            display: block;
-            padding: 8px;
-            font-family: "Comic Sans MS";
-            
-          }
-          p{
-            font-color: yellow;
-          }
-          li a{
-            display: block;
-            color: white;
-            text-align: center;
-            padding: 14px 16px;
-            text-decoration: none;
-          }
-            li a:hover{
-              background-color: black;
-            }
-            .active{
-              background-color: green;
-              
-            }
-            .content:before {
-  content: "";
-  position: fixed;
-  left: 0;
-  right: 0;
-  z-index: -1;
-  
-  display: block;
-  background-image: url('http://cdn.pcwallart.com/images/cool-nature-desktop-backgrounds-wallpaper-1.jpg');
-  width: 100%;
-  height: 800px;
-  
-  -webkit-filter: opacity(150%);
-  filter: opacity(150%);
-}
-.content {
-  position: fixed;
-  left: 0;
-  right: 0;
-  z-index: 0;
-  margin-left: 20px;
-  margin-right: 20px;
 }
