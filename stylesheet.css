@@ -49,14 +49,14 @@ ul {
     padding: 0;
     overflow: hidden;
     font-family: "Comic Sans MS";
-    font-size: 30px;
+    font-size: 25px;
     color: blue;
 }
 
 li {
     float: left;
     font-family: "Comic Sans MS";
-    font-size: 30px;
+    font-size: 25px;
     color: blue;
     list-style-type: none;
 }
