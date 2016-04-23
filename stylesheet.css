@@ -120,3 +120,8 @@ span{
   color: white;
   text-decoration: none;
 }
+span:hover{
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
