@@ -73,7 +73,7 @@ li a:hover:not(.active) {
     color: yellow;
 }
 .active{
-  text-decoration: underline;
+  background-color: green;
 }
 li:last-child {
     border-right: none;
