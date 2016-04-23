@@ -48,13 +48,16 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    font-family: "Comic Sans MS";
+    font-size: 30px;
+    color: blue;
 }
 
 li {
     float: left;
     font-family: "Comic Sans MS";
     font-size: 30px;
+    color: blue;
 }
 
 li a {
@@ -66,8 +69,11 @@ li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover {
-    background-color: #111;
+li a:hover:not(.active) {
+    color: yellow;
+}
+.active{
+  background-color: green;
 }
 .content:before {
   content: "";
