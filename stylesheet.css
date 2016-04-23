@@ -60,6 +60,7 @@ li {
     font-size: 25px;
     color: blue;
     list-style-type: none;
+    border-right: 1px solid white;
 }
 
 li a {
@@ -78,6 +79,9 @@ li a:hover:not(.active) {
   font-size: 30px;
   color: yellow;
   background-color: green;
+}
+li:last-child {
+    border-right: none;
 }
 .content:before {
   content: "";
