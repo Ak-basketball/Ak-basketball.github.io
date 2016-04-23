@@ -87,6 +87,9 @@ li:last-child {
   
   display: block;
   background-image: url('http://cdn.pcwallart.com/images/cool-nature-desktop-backgrounds-wallpaper-1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   width: 100%;
   height: 100%;
 
@@ -94,7 +97,10 @@ li:last-child {
   -webkit-filter: opacity(50%);
   filter: opacity(50%);
 }
-
+img{
+  position: center center;
+  size: cover;
+}
 .content {
   position: fixed;
   left: 0;
