@@ -132,3 +132,21 @@ font{
 font:hover{
   color: red;
 }
+.red{
+  border-color: red;
+}
+.blue{
+  border-color: blue;
+}
+.green{
+  border-color: green;
+}
+.purple{
+  border-color: purple;
+}
+.yellow{
+  border-color: yellow;
+}
+.brown{
+  border-color: brown;
+}
