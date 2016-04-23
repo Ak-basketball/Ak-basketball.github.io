@@ -25,6 +25,7 @@ h4{
 a{
   font-family: "Comic Sans MS";
   color: red;
+  text-decoration: none;
 }
 a:hover{
   color: yellow;
