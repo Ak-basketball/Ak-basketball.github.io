@@ -6,7 +6,7 @@ h1{
   font-family: "Comic Sans MS";
 }
 h3{
-  font-family: Arial;
+  font-family: "Comic Sans MS";
   text-align: center;
   font-size: 25px;
   color: black;
@@ -16,7 +16,7 @@ a{
   color: blue;
   font-size: 20px;
   width: auto;
-  font-family: Verdana;
+  font-family: "Comic Sans MS";
 }
 table{
   border-radius: 10px;
