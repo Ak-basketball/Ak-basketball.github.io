@@ -15,13 +15,14 @@ h3{
   color: black;
 }
 a{
- background-color: none;
+  background-color: none;
   color: black;
   font-size: 20px;
   width: auto;
   font-family: "Comic Sans MS";
   display: black;
   padding: 8px;
+  display: block;
 }
 center a:hover{
   color: yellow;
@@ -68,7 +69,7 @@ li a{
   text-decoration: none;
 }
 li a:hover{
-  color: blue;
+  color: yellow;
 }
 .active{
   background-color: green;
