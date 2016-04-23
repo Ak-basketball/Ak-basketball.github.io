@@ -68,7 +68,7 @@ li a{
   text-decoration: none;
 }
 li a:hover{
-  color: yellow;
+  color: blue;
 }
 .active{
   background-color: green;
