@@ -54,9 +54,7 @@ ul {
     padding: 0;
     width: 100%;
 }
-ul{
-  background-color: gray;
-}
+
 li {
     float: left;
     font-family: "Comic Sans MS";
@@ -64,7 +62,6 @@ li {
     color: blue;
     list-style-type: none;
     border-right: 1px solid white;
-    background-color: gray;
 }
 
 li a {
