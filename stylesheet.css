@@ -1,11 +1,9 @@
 
 
 body {
-  background-image: url("http://cdn.pcwallart.com/images/cool-nature-desktop-backgrounds-wallpaper-1.jpg");
+  //*background-image: url("http://cdn.pcwallart.com/images/cool-nature-desktop-backgrounds-wallpaper-1.jpg");*//
   background-repeat: no-repeat;
   background-position: top-center;
-  background-image: -webkit-filter: opacity(50%);filter: opacity(50%);
-  
 }
 h1{
   color: white;
@@ -77,4 +75,4 @@ li a:hover{
 .active{
   background-color: green;
 }
-
+.opacity {-webkit-filter: opacity(50%);filter: opacity(50%);}
