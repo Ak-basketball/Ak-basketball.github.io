@@ -51,7 +51,9 @@ ul {
     font-family: "Comic Sans MS";
     font-size: 20px;
     color: blue;
-    background color: gray;
+}
+ul{
+ background-color: #dddddd;
 }
 
 li {
