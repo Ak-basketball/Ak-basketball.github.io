@@ -24,7 +24,7 @@ a{
   padding: 8px;
   display: block;
 }
-center a:hover{
+a:hover{
   color: yellow;
 }
 table{
