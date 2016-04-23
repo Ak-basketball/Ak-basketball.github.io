@@ -2,6 +2,7 @@ body{
   margin-right: 200px;
   margin-left: 200px;
 }
+//*The h family*//
 h1{
   color: black;
   text-align: center;
@@ -14,6 +15,12 @@ h3{
   font-size: 25px;
   color: black;
 }
+h4{
+  color: black;
+  background-color: auto;
+  font-family:"Comic Sans MS";
+}
+//*"a" code*//
 a{
   background-color: none;
   color: black;
@@ -27,6 +34,7 @@ a{
 a:hover{
   color: yellow;
 }
+//*menu bar code*//
 table{
   border-radius: 10px;
   border-color: gray;
@@ -36,26 +44,22 @@ table{
   text-align: center;
   background-color: none;
 }
-h4{
-  color: black;
-  background-color: auto;
-  font-family:"Comic Sans MS";
-}
+
 #section{
   float: center;
 }
- ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  background-color: none;
-  position: fixed;
-  top: 0;
-  width: 100%;
+//*List code*//
+ul{
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ background-color: none;
+ position: fixed;
+ top: 0;
+ width: 100%;
 }
 li{
   float: left;
-  border-right: 1px solid black;
   font-size: 25px;
 }
 li:last-child{
