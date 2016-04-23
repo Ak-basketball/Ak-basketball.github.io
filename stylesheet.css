@@ -32,11 +32,13 @@ a:hover{
 }
 //*menu bar code*//
 table, th, td {
- border-style: solid;
- border-color: blue;
  border-collapse: collapse;
  height: 45px;
  width: 600px;
+}
+table{
+ border-style: solid;
+ border-color: blue;
 }
 th, td {
     padding: 5px;
