@@ -54,7 +54,6 @@ h4{
             float: left;
             border-right: 1px solid black;
             font-size: 25px;
-            color: black;
           }
           li:last-child{
             border-right: none;
@@ -66,7 +65,7 @@ h4{
           }
           li a{
             display: block;
-            color: white;
+            color: black;
             text-align: center;
             padding: 14px 16px;
             text-decoration: none;
