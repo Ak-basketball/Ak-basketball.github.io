@@ -60,11 +60,11 @@ li {
     color: blue;
     list-style-type: none;
     border-right: none;
-    display: inline;
+    display: auto;
 }
 li a {
     display: block;
-    display: inline;
+    display: auto;
     color: black;
     text-align: center;
     padding: 14px 16px;
