@@ -60,11 +60,10 @@ li {
     color: blue;
     list-style-type: none;
     border-right: none;
-    display: auto;
+    display: block;
 }
 li a {
     display: block;
-    display: auto;
     color: black;
     text-align: center;
     padding: 14px 16px;
@@ -154,6 +153,5 @@ body::-webkit-scrollbar-thumb {
     outline: 1px solid #2c3e50;
 }
 img{
-  display: auto;
   display: block;
 }
