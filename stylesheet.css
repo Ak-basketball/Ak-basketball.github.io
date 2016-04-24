@@ -71,6 +71,7 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
     border-color: 1px solid white;
+    position: center center;
 }
 
 /* Change the link color to #111 (black) on hover */
