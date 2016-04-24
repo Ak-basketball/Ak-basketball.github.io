@@ -112,13 +112,12 @@ img{
   position: fixed;
   left: 0;
   right: 0;
-  z-index: 0;
   margin-left: 20px;
   margin-right: 20px;
 }
 u{
   color: blue;
-  font-family: "comic Sans MS";
+  font-family: "Comic Sans MS";
 }
 span{
   color: gray;
