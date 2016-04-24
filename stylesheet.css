@@ -142,3 +142,7 @@ font:hover{
 .side-right{
   background-color: none;
 }
+.fadeIn {
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+}
