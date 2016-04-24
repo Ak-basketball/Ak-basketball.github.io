@@ -48,10 +48,11 @@ th, td {
 }
 //*List code*//
 ul {
-    //*list-style-type: none;
+    list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 100%;*//
+    width: 100%;
+    display: block;
 }
 li {
     float: left;
