@@ -47,7 +47,7 @@ th, td {
   float: center;
 }
 //*List code*//
-//*ul {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -60,16 +60,16 @@ li {
     color: blue;
     list-style-type: none;
     border-right: none;
-    display: block;
+    display: auto;
 }
 li a {
-    display: block;
+    display: auto;
     color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     border-color: 1px solid white;
-    position: center center;*//
+    position: center center;
 }
 /* Change the link color to #111 (black) on hover */
 li a:hover:not(.active) {
