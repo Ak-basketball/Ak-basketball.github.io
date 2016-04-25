@@ -9,16 +9,17 @@ body{
   background-color: gray;
   width: 1000px;
   height: 700px;
+  opacity: 50%;
 }
 //*The h family*//
 h1{
   color: black;
   text-align: center;
   font-size: 45px;
-  font-family: "Comic Sans MS";
+  font-family: "Varela Round";
 }
 h3{
-  font-family: "Comic Sans MS";
+  font-family: "Varela Round";
   text-align: center;
   font-size: 25px;
   color: black;
@@ -26,11 +27,11 @@ h3{
 h4{
   color: black;
   background-color: auto;
-  font-family:"Comic Sans MS";
+  font-family:"Varela Round";
 }
 //*"a" code*//
 a{
-  font-family: "Comic Sans MS";
+  font-family: "Varela Round";
   color: black;
   text-decoration: none;
 }
