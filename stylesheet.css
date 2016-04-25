@@ -164,4 +164,6 @@ img{
 }
 .coBlack{
   color: black;
+  text-align: left;
+  font-weight: bold;
 }
