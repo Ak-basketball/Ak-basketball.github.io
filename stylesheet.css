@@ -1,6 +1,7 @@
 body{
   margin-right: 200px;
   margin-left: 200px;
+  background-image: url("http://www.pd4pic.com/images/forest-nature-trees-crowns-background-may.jpg");
 }
 //*The h family*//
 h1{
@@ -80,23 +81,7 @@ li a:hover:not(.active) {
 li:last-child {
     border-right: none;
 }
-.content:before {
-  content: "";
-  position: fixed;
-  left: 0;
-  right: 0;
 
-  
- 
-  
-  display: block;
-  background-image: url('http://cdn.pcwallart.com/images/cool-nature-desktop-backgrounds-wallpaper-1.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
 
   
 }
@@ -104,14 +89,7 @@ img{
   position: center center;
   size: cover;
 }
-.content {
-  position: fixed;
-  left: 0;
-  right: 0;
-  margin-left: 20px;
-  margin-right: 20px;
-  z-index: 0;
-}
+
 u{
   color: blue;
   font-family: "Comic Sans MS";
