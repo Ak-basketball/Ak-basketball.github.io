@@ -1,15 +1,6 @@
 body{
   margin-right: 100px;
-  margin-left: 150px;
-  background-image: url("http://ecx.images-amazon.com/images/I/C1BUR3BSE8S.png");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-color: gray;
-  width: 1000px;
-  height: 700px;
-  opacity: 50%;
+  margin-left: 100px;
 }
 //*The h family*//
 h1{
@@ -38,19 +29,7 @@ a{
 a:hover{
   color: yellow;
 }
-//*menu bar code*//
-table, th, td {
- border-collapse: collapse;
- height: 45px;
- width: 600px;
-}
-table{
- border-style: solid;
- border-color: blue;
-}
-th, td {
-    padding: 5px;
-}
+//*menu code*//
 #section{
   float: center;
 }
@@ -149,6 +128,4 @@ img{
   color: black;
   font-size: 30px;
 }
-content{
-  font-family: Verdana, sans-serif;
-}
+
