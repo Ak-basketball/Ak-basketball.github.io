@@ -182,3 +182,12 @@ img{
   left: 0;
   width: 100%;
 }
+body::-webkit-scrollbar {
+    width: 0.8em;
+    background-color: gray;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: gray;
+    outline: 1px solid #2c3e50;
+}
