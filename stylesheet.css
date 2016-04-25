@@ -8,11 +8,6 @@ h1{
   text-align: center;
   font-size: 45px;
   font-family: "Comic Sans MS";
-  margin-top: 40vh;
-  -webkit-transition: .5s;
-  -moz-transition: .5s;
-  -o-transition: .5s;
-  transition: .5s;
 }
 h3{
   font-family: "Comic Sans MS";
@@ -171,28 +166,5 @@ img{
   text-align: left;
   font-weight: bold;
 }
-.progList a{
-   margin-top: 20px;
-   font-size: 170%;
-   line-height: 7vh;
-   font-family: "Comic Sans MS";
-   font-weight: bold;
-   color: black;
-   padding-left: 5%;
-}
-.projList{
-  text-align: left;
-  position: absolute;
-  margin-top: 50vh;
-  left: 0;
-  width: 100%;
-}
-body::-webkit-scrollbar {
-    width: 0.8em;
-    background-color: gray;
-}
 
-body::-webkit-scrollbar-thumb {
-    background-color: gray;
-    outline: 1px solid #2c3e50;
-}
+
