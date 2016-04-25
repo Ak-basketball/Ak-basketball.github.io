@@ -72,10 +72,6 @@ li:last-child {
 
   
 }
-img{
-  position: center center;
-  size: cover;
-}
 
 u{
   color: blue;
@@ -101,10 +97,6 @@ font:hover{
 }
 .side-right{
   background-color: none;
-}
-.fadeIn {
-    -webkit-animation-name: fadeIn;
-    animation-name: fadeIn;
 }
 body::-webkit-scrollbar {
     width: 0.9em;
