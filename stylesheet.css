@@ -16,10 +16,10 @@ h1{
   color: black;
   text-align: center;
   font-size: 45px;
-  font-family: "Varela Round";
+  font-family: "Comic Sans Ms";
 }
 h3{
-  font-family: "Varela Round";
+  font-family: "Comic Sans Ms";
   text-align: center;
   font-size: 25px;
   color: black;
@@ -27,11 +27,11 @@ h3{
 h4{
   color: black;
   background-color: auto;
-  font-family:"Varela Round";
+  font-family:"Comic Sans Ms";
 }
 //*"a" code*//
 a{
-  font-family: "Varela Round";
+  font-family: "Comic Sans Ms";
   color: black;
   text-decoration: none;
 }
@@ -139,7 +139,7 @@ img{
   display: block;
 }
 .projList{
-  font-family: "Comic Sans MS";
+  font-family: "Comic Sans Ms";
   font-size: 20px;
 }
 .projList:hover{
