@@ -99,8 +99,6 @@ li:last-child {
   height: 100%;
 
   
-  -webkit-filter: opacity(50%);
-  filter: opacity(50%);
 }
 img{
   position: center center;
