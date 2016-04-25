@@ -123,11 +123,11 @@ font:hover{
 }
 body::-webkit-scrollbar {
     width: 0.9em;
-    background-color: #43C6DB;
+    background-color: red;
 }
 body::-webkit-scrollbar-thumb {
-    background-color: #2c3e50;
-    outline: 1px solid #2c3e50;
+    background-color: #43C6DB;
+    outline: 1px solid #43C6DB;
 }
 img{
   display: block;
