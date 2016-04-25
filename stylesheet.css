@@ -16,10 +16,10 @@ h1{
   color: black;
   text-align: center;
   font-size: 45px;
-  font-family: "Verdana", sans-serif;
+  font-family: Verdana, sans-serif;
 }
 h3{
-  font-family: "Verdana", sans-serif;
+  font-family: Verdana, sans-serif;
   text-align: center;
   font-size: 25px;
   color: black;
@@ -63,7 +63,7 @@ ul {
 }
 li {
     float: left;
-    font-family:  Varela Round, sans-serif;
+    font-family:  Verdana, sans-serif;
     font-size: 20px;
     color: blue;
     list-style-type: none;
@@ -100,7 +100,7 @@ img{
 
 u{
   color: blue;
-  font-family:  Varela Round, sans-serif;
+  font-family:  Verdana, sans-serif;
 }
 span{
   color: gray;
@@ -150,5 +150,5 @@ img{
   font-size: 30px;
 }
 content{
-  font-family: "Verdana", sans-serif;
+  font-family: Verdana, sans-serif;
 }
