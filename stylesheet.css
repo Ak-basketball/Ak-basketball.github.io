@@ -166,3 +166,13 @@ img{
   text-align: left;
   font-weight: bold;
 }
+.progList a{
+   margin-top: 20px;
+   font-size: 170%;
+   line-height: 7vh;
+   font-family: "Comic Sans MS";
+   font-weight: bold;
+   color: black;
+   padding-left: 5%;
+}
+  
