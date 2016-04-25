@@ -7,10 +7,10 @@ h1{
   color: black;
   text-align: center;
   font-size: 45px;
-  font-family: Verdana, sans-serif;
+  font-family: "Candara", sans-serif;
 }
 h3{
-  font-family: Verdana, sans-serif;
+  font-family: "Candara", sans-serif;
   text-align: center;
   font-size: 25px;
   color: black;
@@ -18,7 +18,7 @@ h3{
 h4{
   color: black;
   background-color: auto;
-  font-family: "Verdana", sans-serif;
+  font-family: "Candara", sans-serif;
 }
 //*"a" code*//
 a{
@@ -42,7 +42,7 @@ ul {
 }
 li {
     float: left;
-    font-family:  Verdana, sans-serif;
+    font-family:  "Candara",sans-serif;
     font-size: 20px;
     color: blue;
     list-style-type: none;
