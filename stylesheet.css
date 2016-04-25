@@ -22,17 +22,17 @@ h3{
   font-family: "Varela Round";
   text-align: center;
   font-size: 25px;
-  color: white;
+  color: black;
 }
 h4{
-  color: white;
+  color: black;
   background-color: auto;
   font-family:"Varela Round";
 }
 //*"a" code*//
 a{
   font-family: "Varela Round";
-  color: white;
+  color: black;
   text-decoration: none;
 }
 a:hover{
