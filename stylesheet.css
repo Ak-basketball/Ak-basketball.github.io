@@ -16,10 +16,10 @@ h1{
   color: black;
   text-align: center;
   font-size: 45px;
-  font-family: Raleway, sans-serif;
+  font-family: "Verdana", sans-serif;
 }
 h3{
-  font-family: Raleway, sans-serif;
+  font-family: "Verdana", sans-serif;
   text-align: center;
   font-size: 25px;
   color: black;
@@ -27,7 +27,7 @@ h3{
 h4{
   color: black;
   background-color: auto;
-  font-family: Raleway, sans-serif;
+  font-family: "Verdana", sans-serif;
 }
 //*"a" code*//
 a{
@@ -139,7 +139,7 @@ img{
   display: block;
 }
 .projList{
-  font-family: "Comic Sans Ms";
+  font-family: "Verdan", sans-serif;
   font-size: 20px;
 }
 .projList:hover{
@@ -150,5 +150,5 @@ img{
   font-size: 30px;
 }
 content{
-  font-family: Varela Round, sans-serif;
+  font-family: "Verdana", sans-serif;
 }
