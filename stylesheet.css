@@ -130,6 +130,8 @@ img{
 }
 .intro{
   background-image: url("http://www.hdbloggers.net/wp-content/uploads/2016/01/Background.png");
-  width: 900px;
-  height: 600px;
+  width: 1800px;
+  height: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
 }
