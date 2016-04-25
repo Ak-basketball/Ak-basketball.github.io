@@ -201,7 +201,7 @@ img{
     -moz-transition: .50s;
     -o-transition: .50s;
     transition: .50s;
-    opacity: 0.5;
+    opacity: 0.9;
     z-index: 99;
 }
 
