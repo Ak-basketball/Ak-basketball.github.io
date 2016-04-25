@@ -175,4 +175,10 @@ img{
    color: black;
    padding-left: 5%;
 }
-  
+.projList{
+  text-align: left;
+  position: absolute;
+  margin-top: 50vh;
+  left: 0;
+  width: 100%;
+}
