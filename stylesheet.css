@@ -9,6 +9,10 @@ h1{
   font-size: 45px;
   font-family: "Comic Sans MS";
   margin-top: 40vh;
+  -webkit-transition: .5s;
+  -moz-transition: .5s;
+  -o-transition: .5s;
+  transition: .5s;
 }
 h3{
   font-family: "Comic Sans MS";
