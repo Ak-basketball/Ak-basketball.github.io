@@ -1,4 +1,7 @@
-
+body{
+  margin-right: 0px;
+  margin-left: 0px;
+}
 //*The h family*//
 h1{
   color: black;
