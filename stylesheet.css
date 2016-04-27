@@ -105,7 +105,7 @@ img{
 .projList{
   font-family: "Verdana", sans-serif;
   font-size: 20px;
-  color:black;
+  background-color:black;
 }
 .projList a{
   color: white;
