@@ -151,9 +151,9 @@ img{
 .menu-icon.ak .upper{
   top:11px;
   
-  -webkit-transform:rotate(-225deg);
-  -ms-transform:rotate(-225deg);
-  transform: rotate(-225deg);
+  -webkit-transform:rotate(-315deg);
+  -ms-transform:rotate(-315deg);
+  transform: rotate(-315deg);
 }
 .upper{
   top: 1px;
@@ -170,9 +170,9 @@ img{
 
 .menu-icon.ak .bottom{
    top:11px;
-  -webkit-transform:rotate(225deg);
-  -ms-transform:rotate(225deg);
-  transform: rotate(225deg);
+  -webkit-transform:rotate(315deg);
+  -ms-transform:rotate(315deg);
+  transform: rotate(315deg);
 }
 
 .menuPage{
@@ -200,6 +200,7 @@ img{
 .menuPage li{
   text-align:center;
   margin-top:33vh;
+  display:block;
 }
 .menuPage a {
     color: rgb(220, 220, 220);
