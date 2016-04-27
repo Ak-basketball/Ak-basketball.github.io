@@ -135,7 +135,7 @@ img{
   position: fixed;
   cursor:pointer;
   top:6vh;
-  right:1%;
+  right:3%;
 }
 
 .menu-icon span {
@@ -180,7 +180,7 @@ img{
     background: #43C6DB  repeat left top;
     height: 100%;
     position: fixed;
-    width: 300px;
+    width: 350px;
     -webkit-transition: .50s;
     -moz-transition: .50s;
     -o-transition: .50s;
