@@ -120,13 +120,14 @@ img{
   color: black;
   font-size: 30px;
 }
-.intro{
+.background{
   background-image: url("http://www.hdbloggers.net/wp-content/uploads/2016/01/Background.png");
   width: 1348px;
   height: 900%;
   margin-left: 0px;
   margin-right: 0px;
   text-align: center;
+  margin-top: 0px;
 }
 .menu-icon{
   height: 29px;
