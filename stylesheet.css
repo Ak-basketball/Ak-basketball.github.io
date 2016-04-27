@@ -105,12 +105,11 @@ img{
 .projList{
   font-family: "Verdana", sans-serif;
   font-size: 20px;
-  background-color:black;
 }
 .projList a{
   color: white;
 }
-.projList:hover{
+.projList a:hover{
   color: yellow;
   font-size: 25px;
 }
