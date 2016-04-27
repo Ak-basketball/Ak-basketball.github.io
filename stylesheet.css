@@ -105,9 +105,10 @@ img{
 .projList{
   font-family: "Verdana", sans-serif;
   font-size: 20px;
+  background-color: none;
 }
 .projList a{
-  color: white;
+  color: black;
 }
 .projList a:hover{
   color: yellow;
@@ -119,7 +120,7 @@ img{
   font-family: "Verdana", sans-serif;
 }
 .mainPage-text{
-  padding-bottom: 30px;
+  padding-bottom: 300px;
 }
 .background{
   background-image: url("http://www.hdbloggers.net/wp-content/uploads/2016/01/Background.png");
