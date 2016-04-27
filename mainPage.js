@@ -1,5 +1,5 @@
 $(document).ready(function(){
-$(".nav-icon").click(function() {
+$(".menu-icon").click(function() {
     $(this).toggleClass("ak");
     $(".menuPage").toggleClass("appear");
 });
