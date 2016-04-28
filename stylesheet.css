@@ -77,7 +77,6 @@ img{
   font-size: 20px;
   background-color: none;
    padding-bottom: 50px;
-   padding-left: 20px;
 }
 .projList a{
   color: black;
@@ -95,7 +94,7 @@ img{
   font-size: 40px;
 }
 .mainPage-text{
-  padding-bottom: 200px;
+  padding-bottom: 400px;
 }
 .mainPage-text h1{
   font-family: sans-serif;
@@ -180,7 +179,7 @@ img{
 }
 .menuPage li{
   text-align:center;
-  margin-top:23vh;
+  margin-top:30vh;
   display:block;
 }
 .menuPage a {
@@ -199,13 +198,14 @@ img{
   font-size:50px;
 }
 .background-proj{
-  padding-top: 200px;
+  padding-top: 230px;
   background-color: #D1D0CE;
 }
 .coBlack{
   color: #1589FF;
   font-family:"Candara", sans-serif;
   font-weight: bold;
+  padding-bottom: 200px;
 }
 .blog{
   padding-top: 600px;
