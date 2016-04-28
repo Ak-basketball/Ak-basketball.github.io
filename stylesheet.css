@@ -435,3 +435,16 @@ img{
   list-style-type: none;
   padding-top: 100px;
 }
+.h3-about{
+  text-align:center;
+  font-family: "Candara",sans-serif;
+  font-size: 25px;
+  padding-bottom: 600px;
+  margin-right: 300px;
+  margin-left: 300px;
+}
+.title-about{
+  text-align:center;
+  font-family: "Verdana", sans-serif;
+  padding-top: 200px;
+}
