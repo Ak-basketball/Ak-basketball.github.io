@@ -4,12 +4,11 @@ body{
   background-color: #D1D0CE;
 }
 //*The h family*//
-h1{
+.title{
   color: black;
   text-align: center;
-  font-size: 45px;
-  font-family: Raleway, sans-serif;
-  -top: 40vh;
+  font-size: 50px;
+  padding-top: 20vh;
 }
 h3{
   font-family: "Candara", sans-serif;
@@ -86,22 +85,25 @@ img{
   -moz-transition: 0.8s;
   -o-transition: 0.8s;
   transition: 0.8s;
-  font-size: 30px;
+  font-size: 35px;
+  font-weight: bold;
   font-family: "Candara", sans-serif;
 }
 .projList a:hover{
   color: #1589FF;
-  font-size: 35px;
+  font-size: 40px;
 }
 .mainPage-text{
   padding-bottom: 200px;
 }
+.mainPage-text h1{
+  font-family: sans-serif;
+  font-size: 40px
+}
 .background{
   background-image: url("http://www.hdbloggers.net/wp-content/uploads/2016/01/Background.png");
   width: 1352px;
-  height: 900%;
-  margin-left: 0px;
-  margin-right: 0px;
+  height: 900%
   text-align: center;
   padding-top: 0px;
 }
@@ -112,7 +114,7 @@ img{
   position: fixed;
   cursor:pointer;
   top:6vh;
-  right:3%;
+  right:4%;
 }
 
 .menu-icon span {
@@ -128,9 +130,9 @@ img{
 .menu-icon.ak .upper{
   top:11px;
   
-  -webkit-transform:rotate(-315deg);
-  -ms-transform:rotate(-315deg);
-  transform: rotate(-315deg);
+  -webkit-transform:rotate(-225deg);
+  -ms-transform:rotate(-225deg);
+  transform: rotate(-225deg);
 }
 .upper{
   top: 1px;
@@ -147,14 +149,15 @@ img{
 
 .menu-icon.ak .bottom{
    top:11px;
-  -webkit-transform:rotate(315deg);
-  -ms-transform:rotate(315deg);
-  transform: rotate(315deg);
+  
+  -webkit-transform:rotate(225deg);
+  -ms-transform:rotate(225deg);
+  transform: rotate(225deg);
 }
 
 .menuPage{
   top: 0;
-    background: #43C6DB  repeat left top;
+    background:  #306EFF  repeat left top;
     height: 100%;
     position: fixed;
     width: 350px;
@@ -197,4 +200,12 @@ img{
 .background-proj{
   padding-top: 200px;
   background-color: #D1D0CE;
+}
+.coBlack{
+  color: #1589FF;
+  font-family:"Candara", sans-serif;
+  font-weight: bold;
+}
+.blog{
+  padding-top: 600px;
 }
