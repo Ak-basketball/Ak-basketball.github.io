@@ -90,6 +90,214 @@ img{
   font-family: "Candara", sans-serif;
 }
 .projList a:hover{
+  color: #157DEC;
+  font-size: 40px;
+}
+.mainPage-text{
+  padding-bottom: 400px;
+}
+.mainPage-text h1{
+  font-family: sans-serif;
+  font-size: 40px
+}
+.background{
+  background-image: url("http://www.hdbloggers.net/wp-content/uploads/2016/01/Background.png");
+  width: 1352px;
+  height: 900%
+  text-align: center;
+  padding-top: 0px;
+}
+.menu-icon{
+  height: 29px;
+  width: 35px;
+  z-index: 999;
+  position: fixed;
+  cursor:pointer;
+  top:6vh;
+  right:4%;
+}
+
+.menu-icon span {
+    background: black;
+    height: 5px;
+    position: absolute;
+    -webkit-transition: .45s;
+    -moz-transition: .45s;
+    -o-transition: .45s;
+    transition: .45s;
+    width: 100%;
+    }
+.menu-icon.ak .upper{
+  top:11px;
+  
+  -webkit-transform:rotate(-225deg);
+  -ms-transform:rotate(-225deg);
+  transform: rotate(-225deg);
+}
+.upper{
+  top: 1px;
+}
+.middle{
+  top: 11px;
+}
+.bottom{
+  top:21px;
+ }
+.menu-icon.ak .middle{
+  opacity:0;
+}
+
+.menu-icon.ak .bottom{
+   top:11px;
+  
+  -webkit-transform:rotate(225deg);
+  -ms-transform:rotate(225deg);
+  transform: rotate(225deg);
+}
+
+.menuPage{
+  top: 0;
+    background:  #306EFF  repeat left top;
+    height: 100%;
+    position: fixed;
+    width: 350px;
+    -webkit-transition: .50s;
+    -moz-transition: .50s;
+    -o-transition: .50s;
+    transition: .50s;
+    opacity: 0.8;
+    z-index: 99;
+    right: -100%;
+}
+.menuPage ul{
+  margin:0;
+  padding:0;
+  list-style-type:none;
+}
+.appear{
+  right:0;
+}
+.menuPage li{
+  text-align:center;
+  margin-top:20vh;
+  display:block;
+}
+.menuPage a {
+    color: rgb(220, 220, 220);
+    font-size: 40px;
+    text-decoration: none;
+    opacity: 1;
+    -webkit-transition: .8s;
+    -moz-transition: .8s;
+    -o-transition: .8s;
+    transition: .8s;
+    font-family: Candara, sans-serif;
+}
+.menuPage a:hover{
+  color:yellow;
+  font-size:50px;
+}
+.background-proj{
+  padding-top: 230px;
+  background-color: #D1D0CE;
+}
+.coBlack{
+  color: #1589FF;
+  font-family:"Candara", sans-serif;
+  font-weight: bold;
+  padding-bottom: 200px;
+}
+.blog{
+  padding-top: 600px;
+}body{
+  margin-right: 0px;
+  margin-left: 0px;
+  background-color: #D1D0CE;
+}
+//*The h family*//
+.title{
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  padding-top: 20vh;
+}
+h3{
+  font-family: "Candara", sans-serif;
+  text-align: center;
+  font-size: 25px;
+  color: black;
+}
+h4{
+  color: black;
+  background-color: auto;
+  font-family: "Candara", sans-serif;
+}
+//*"a" code*//
+a{
+  font-family: "Candara", sans-serif;
+  color: black;
+  text-decoration: none;
+}
+//*menu code*//
+#section{
+  float: center;
+}
+li a:hover:not(.active) {
+    color: yellow;
+}
+.active{
+  background-color: #43C6DB;
+}
+
+span{
+  color: gray;
+}
+span:hover{
+  color: yellow;
+}
+a, u{
+  text-decoration: none;
+}
+font{
+  color: yellow;
+}
+font:hover{
+  color: red;
+}
+.blogli{
+  background-color: none;
+}
+.side-right{
+  background-color: none;
+}
+body::-webkit-scrollbar {
+    width: 0.9em;
+    background-color: #43C6DB;
+}
+body::-webkit-scrollbar-thumb {
+    background-color: blue;
+    outline: 1px solid blue;
+}
+img{
+  display: block;
+}
+.projList{
+  font-size: 20px;
+  background-color: none;
+   padding-bottom: 50px;
+}
+.projList a{
+  color: black;
+  text-align: left;
+  -webkit-transition: 0.8s;
+  -moz-transition: 0.8s;
+  -o-transition: 0.8s;
+  transition: 0.8s;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: "Candara", sans-serif;
+}
+.projList a:hover{
   color: #1589FF;
   font-size: 40px;
 }
@@ -209,4 +417,18 @@ img{
 }
 .blog{
   padding-top: 600px;
+}
+.title-blog{
+  text-align:center;
+  font-family: "Verdana", sans-serif;
+}
+.p-blog{
+  text-align:center;
+  font-family: "Candara",sans-serif;
+  font-size: 25px;
+}
+.projList{
+  font-family: "Candara",sans-serif;
+  font-size: 30px;
+  list-style-type: none;
 }
